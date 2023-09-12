@@ -75,24 +75,24 @@
 
 ## Natural Language Processing
 
-## Basics
+### Basics
 
 - [Full beginner friendly NLP playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
 - [NLP Preprocessing] (https://exchange.scale.com/public/blogs/preprocessing-techniques-in-nlp-a-guide)
 
-## Classical Approaches
+### Classical Approaches
 
 - [Bag of Words,TF-IDF and other ML based classical approaches](https://www.analyticsvidhya.com/blog/2020/02/quick-introduction-bag-of-words-bow-tf-idf/)
 - [RNN,LSTM,GRU and other classical DL approaches](https://towardsdatascience.com/understanding-rnns-lstms-and-grus-ed62eb584d90)
 - [RNN LSTM GRU with implementation](https://www.analyticsvidhya.com/blog/2022/01/tutorial-on-rnn-lstm-gru-with-implementation/)
 
-## Modern Approaches
+### Modern Approaches
 
 - [Attention is all you need original paper](https://arxiv.org/abs/1706.03762)
 - [Transformers explained](https://www.youtube.com/watch?v=66seIToeguE)
 - [Transformer based models](https://towardsdatascience.com/self-supervised-transformer-models-bert-gpt3-mum-and-paml-2b5e29ea0c26)
 
-## Large Language Models
+### Large Language Models
 
 - [GPT-4](https://arxiv.org/abs/2303.08774)
 - [Llama-2](https://scontent.fixc9-1.fna.fbcdn.net/v/t39.2365-6/10000000_662098952474184_2584067087619170692_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=s5MQ6YXD4z0AX_D-21s&_nc_ht=scontent.fixc9-1.fna&oh=00_AfDWH6ZrCIhVQNfdnUtHm8sNrsfbcIpMJyGiRC7zKrJXKA&oe=650597FF)
