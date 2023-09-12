@@ -78,7 +78,7 @@
 ### Basics
 
 - [Full beginner friendly NLP playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
-- [NLP Preprocessing] (https://exchange.scale.com/public/blogs/preprocessing-techniques-in-nlp-a-guide)
+- [NLP Preprocessing](https://exchange.scale.com/public/blogs/preprocessing-techniques-in-nlp-a-guide)
 
 ### Classical Approaches
 
